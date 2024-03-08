@@ -4,7 +4,8 @@
 - 🎓 I'm a systems analysis and development student: full-stack at PUC-RS
 - ⚡ Currently studying ReactJS, NextsJS, Typescript, NodeJS.
 
-## Currently studying
+## 
+# Currently studying
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
