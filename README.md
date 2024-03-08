@@ -8,6 +8,30 @@
 #### Currently studying
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs)](https://skillicons.dev)
+
+##
+### knowledge (Front-end)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,regex)](https://skillicons.dev)
+
+##
+### knowledge (Back-end)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,py,postman)](https://skillicons.dev)
+
+##
+### knowledge (Database)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,dynamodb)](https://skillicons.dev)
+
+##
+### knowledge (tools and platforms)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,aws,dynamodb,git,github,npm,wordpress)](https://skillicons.dev)
+
+
+<button> linkedin </button>
+
 <!--
 **georgetonietti/georgetonietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
