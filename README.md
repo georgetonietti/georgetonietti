@@ -5,9 +5,9 @@
 - ⚡ Currently studying ReactJS, NextsJS, Typescript, NodeJS.
 
 ## 
-### Currently studying
+#### Currently studying
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs)](https://skillicons.dev)
 <!--
 **georgetonietti/georgetonietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
