@@ -30,8 +30,6 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,aws,dynamodb,git,github,npm,wordpress)](https://skillicons.dev)
 
 
-<button> linkedin </button>
-
 <!--
 **georgetonietti/georgetonietti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
