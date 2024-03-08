@@ -5,7 +5,7 @@
 - ⚡ Currently studying ReactJS, NextsJS, Typescript, NodeJS.
 
 ## 
-##### Currently studying
+#### Currently studying
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs"  widht="40px" height="40px"/>
