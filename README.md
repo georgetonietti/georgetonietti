@@ -35,7 +35,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"  widht="30px" height="30px"/>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"  widht="40px" height="40px"/>
   </a>
 </p>
 
