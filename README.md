@@ -1,6 +1,6 @@
 ### Hi there , I'm George Lucas👋
 
-- 🏦 I'm from Porto Alegre/RS and currently living in Florianópolis/SC
+- 🏦 I'm from Porto Alegre/RS and currently living in São Paulo/SP
 - 🎓 I'm a systems analysis and development student: full-stack at PUC-RS
 - ⚡ Currently studying ReactJS, NextsJS, Typescript, NodeJS.
 
