@@ -8,14 +8,14 @@
 #### Currently studying
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs"  widht="40px" height="40px"/>
+  <img src="https://skillicons.dev/icons?i=react,graphql"  widht="40px" height="40px"/>
 </a>
 
 ##
 #### knowledge (Front-end)
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,regex"  widht="40px" height="40px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nextjs,nodejs,regex"  widht="40px" height="40px"/>
 </a>
 
 ##
@@ -36,7 +36,7 @@
 #### knowledge (tools and platforms)
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=figma,aws,dynamodb,git,github,npm,wordpress"  widht="40px" height="40px"/>
+  <img src="https://skillicons.dev/icons?i=figma,aws,dynamodb,git,github,npm,wordpress,androidstudio"  widht="40px" height="40px"/>
 </a>
 
 ##
