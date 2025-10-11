@@ -17,9 +17,3 @@
 
 <img align="left" style="height: 200px; padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgetonietti&show_icons=true&hide_border=false&layout=compact&langs_count=7&bg_color=0D1117&title_color=11C76F&text_color=F6F6F6&border_color=11C76F&border_radius=8" alt="georgetonietti's GitHub Stats" />
 </div>
-
-##
-### Contact me:
-<a href="https://www.linkedin.com/in/george-tonietti-a08978162/" rel="nofollow noreferrer noopener" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
