@@ -1,4 +1,4 @@
-<h3 style="font-size: 24px;">Hi 👋! My name is George Lucas and I'm a front-end software developer at Econverse.</h3>
+### Hi 👋! My name is George Lucas and I'm a **`Front-end software developer`** at Econverse.
 
 ##
 ### Currently studying
