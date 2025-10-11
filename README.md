@@ -12,10 +12,10 @@
 
 ##
 ### Stats:
-<div style="display: flex; gap: 8px; flex-wrap: nowrap">
+<p style="margin:0">
     <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=georgetonietti&bg_color=0D1117&title_color=11C76F&border_color=11C76F&border_radius=8&icon_color=11C76F&ring_color=11C76F&show_icons=true&text_color=F6F6F6" alt="georgetonietti's GitHub Stats" />
     <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgetonietti&show_icons=true&hide_border=false&layout=compact&langs_count=9&bg_color=0D1117&title_color=11C76F&text_color=F6F6F6&border_color=11C76F&border_radius=8" alt="georgetonietti's GitHub Stats" />
-</div>
+</p>
 
 ##
 ### Contact me:
