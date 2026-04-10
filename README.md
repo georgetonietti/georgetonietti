@@ -1,4 +1,4 @@
-### Hi 👋! My name is George Lucas and I'm a **`Front-end software developer`** at Econverse.
+### Hi 👋! My name is George Lucas and I'm a **`Software Developer`** at Econverse.
 
 ##
 ### Currently studying
