@@ -8,4 +8,4 @@
 
 ##
 ### Main stacks
- <img src="https://skillicons.dev/icons?i=react,graphql,html,css,js,ts,tailwind,sass,git,github" height="40"/>
+ <img src="https://skillicons.dev/icons?i=react,graphql,html,css,js,ts,tailwind,sass,git,github,node" height="40"/>
