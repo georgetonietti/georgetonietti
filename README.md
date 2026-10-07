@@ -1,11 +1,11 @@
-### Hi 👋! My name is George Lucas and I'm a **`Software Developer`** at Econverse.
+### Hi 👋! My name is George Lucas and I'm a **`Software Engineer`**.
 
 ##
 ### Currently studying
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,go,terraform,githubactions&theme=dark" height="40px"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kubernetes,aws,terraform,githubactions,cs,dotnet&theme=dark" height="40px"/>
 </a>
 
 ##
 ### Main stacks
- <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,java,spring,postgres,graphql,html,css,js,ts,tailwind,sass,git,github,docker" height="40"/>
+ <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,postgres,graphql,react,nextjs,html,css,js,ts,tailwind,sass,git,github,docker" height="40"/>
