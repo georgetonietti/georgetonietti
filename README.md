@@ -1,4 +1,4 @@
-### Hi 👋! My name is George Lucas and I'm a **`Software Engineer`**.
+### Hi 👋! My name is George Lucas and I'm a **`Software Engineer`** at TechnoShift.
 
 ##
 ### Currently studying
